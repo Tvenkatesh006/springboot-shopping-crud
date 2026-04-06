@@ -39,7 +39,7 @@ Setup
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/online-shopping-crud.git
+git clone [https://github.com/yourusername/online-shopping-crud.git](https://github.com/Tvenkatesh006/springboot-shopping-crud)
 
 2. Navigate to the project directory
 
